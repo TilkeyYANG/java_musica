@@ -7,6 +7,7 @@
 ### Project Description
 
 This is an application of java which I've programmed on 2017 (My Bac+2),
+
 I've used JavaFX to create GUI and a pool of wav sources to generate sound.
 
 <br />
@@ -55,6 +56,8 @@ I've used JavaFX to create GUI and a pool of wav sources to generate sound.
 < Software >:
 
 Java
+
 Ableton Live
+
 Adobe CC étudiant (Indesign, Photoshop)
 
